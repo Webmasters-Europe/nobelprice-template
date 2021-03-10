@@ -9,3 +9,5 @@ Template für die Einsendeaufgabe "Nobelpreisträger" der Class "Einführung in 
 ## Demo
 
 Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://nobel.webmasters-akademie.dev/">https://nobel.webmasters-akademie.dev/</a>
+
+![CleanShot 2021-03-10 at 12 44 33](https://user-images.githubusercontent.com/42392570/110626190-b668bd00-81a0-11eb-8b5a-b8fa6a86e6b2.gif)
