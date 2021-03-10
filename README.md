@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Nobelpreisträger" der Class "Einführung in 
 </p>
 
 ## Nobelpreisträger
-*Nobelpreisträger* ist eine Applikation, bei der Sie die Nobelpreisträger aus einer vorhandenen CSV-Datei ausgeben. Diese Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Nobelpreisträger* ist eine Applikation, bei der Sie die Nobelpreisträger aus einer vorhandenen CSV-Datei ausgeben. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
 
 ## Demo
 
